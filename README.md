@@ -1,4 +1,5 @@
 # Weapon_Detection_and_Elimination_V0102
+0. Observe images in folder "Circuit_Diagrams_and_Screen_shots" for clearification and demo
 1. Installation: <br>
   <t> $ sudo apt-get install python3-pip <br>
   <t> $ cd Weapon_Detection_and_Elimination_V0102 <br>
