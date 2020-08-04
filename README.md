@@ -1,8 +1,8 @@
 # Weapon_Detection_and_Elimination_V0102
-1. Installation:\n
-  $ sudo apt-get install python3-pip\n
-  $ cd Weapon_Detection_and_Elimination_V0102\n
-  $ pip3 install -r requirements.txt\n
+1. Installation: <br>
+  <t> $ sudo apt-get install python3-pip <br>
+  <t> $ cd Weapon_Detection_and_Elimination_V0102 <br>
+  <t> $ pip3 install -r requirements.txt <br>
 2. Now upload MCU_Code_ESP.ino file to node MCU and connect two servo motor and one laser accordingly.
 
 3. Then connect 
@@ -13,9 +13,9 @@
 
 5. power on the fire arm node (NodeMCU and servos)[ make sure about the common ground of both servos and NodeMCU]
 6. check IP of the fire arm node (NodeMCU) using serial monitor with a baud rate of 115200
-7. Finally start the GUI program by typing command as follows
+7. Finally start the GUI program by typing command as follows <br>
 
-  \t$ python3 Exp_GUI_test_V0102.py
+  <t> $ python3 Exp_GUI_test_V0102.py
 
 8. If required do some software calibration for camera and fire arm node and save calibration 
    and use in normal mode
