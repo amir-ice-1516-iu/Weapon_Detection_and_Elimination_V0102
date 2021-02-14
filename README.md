@@ -8,7 +8,7 @@
   <t> the live video frame in the designed GUI for the device.<br>
   <br>
 0. Observe images in folder "Circuit_Diagrams_and_Screen_shots" for clearification and demo <br>
-  <t> Initial Prototype: https://drive.google.com/file/d/1-_B-KYTBl_ODTwAf7hcii62sPeNUS1HA/view?usp=sharing <br>
+  <t> Initial Prototype: https://drive.google.com/file/d/1gASbtAKnxIejWa7tDE7ymffy53rzsErD/view?usp=sharing <br>
   <t> GUI Demonstration: https://drive.google.com/file/d/1X-_2pPH39c2BelUElIT-0_LRTCY1aP_M/view?usp=sharing <br>
 1. Installation: <br>
   <t> $ sudo apt-get install python3-pip <br>
